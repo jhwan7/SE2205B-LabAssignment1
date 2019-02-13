@@ -1,3 +1,8 @@
+//Student Name: Jeongwon Song
+//Student Number: 250966253
+
+//Student Name: Junseo Hwang
+//Student Number: 250971763
 public class Test{
 
   public static void main(String[] args)throws Exception
